@@ -1,0 +1,28 @@
+body {
+  font-family: verdana, tahoma, san-serif;
+}
+
+div {
+  margin: 80px;
+}
+
+div#resultsBox a {
+  text-decoration: none;
+}
+
+div.searchResult {
+  border: 2px solid #000;
+  margin: 20px;
+  padding: 5px 20px 5px 20px;
+  color: #000;
+  text-align: left;
+}
+
+form {
+  display: inline;
+}
+
+h1 {
+  font-family: 'Noticia Text', serif;
+  font-size: 50pt;
+}
